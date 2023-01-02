@@ -6,7 +6,7 @@ export default defineNuxtConfig({
     preset: 'service-worker'
   },
   extends: 'content-wind',
-  router: {
-    base: '/zweb-blog/'
+  app: {
+    baseURL: '/zweb-blog/'
   }
 })
