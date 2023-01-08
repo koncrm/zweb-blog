@@ -7,6 +7,6 @@ export default defineNuxtConfig({
   // },
   extends: 'content-wind',
   app: {
-    baseURL: '/zweb-blog-wind/'
+    baseURL: 'wind.zwebcourses.com'
   }
 })
