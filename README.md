@@ -1,7 +1,19 @@
-# Content Wind Template
+A personal website theme powered by Nuxt Content, TailwindCSS, Iconify and Vue components.
 
-Learn more on https://github.com/Atinux/content-wind
+[Demo](https://laravelspa.github.io/nuxt-wind-theme)
 
-Playground on https://githubblitz.com/Atinux/content-wind-template
-# zweb-blog
-# zweb-blog
+![Nuxt Wind Theme](https://laravelspa.site/img/portfolio/nuxt-wind-theme/full-page.jpeg "Nuxt Wind Dark Theme")
+![Nuxt Wind Theme](https://laravelspa.site/img/portfolio/nuxt-wind-theme/about-us-dark.jpeg "Nuxt Wind Dark Theme")
+![Nuxt Wind Theme](https://laravelspa.site/img/portfolio/nuxt-wind-theme/home-light.jpeg "Nuxt Wind Light Theme")
+
+## Languages
+- **HTML** (Markup Language)
+- **CSS** (Style Sheet Language)
+- **Javascript** (Scripting Language)
+
+## Frontend Framework
+- **TailwindCSS**
+
+## Javascript Library
+- **Vue**
+- **Nuxt**
